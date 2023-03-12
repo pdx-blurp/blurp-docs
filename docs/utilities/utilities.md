@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Utilities
-nav_order: 4
+parent: Document Resources
+nav_order: 9
 has_children: true
 permalink: docs/utilities
 ---

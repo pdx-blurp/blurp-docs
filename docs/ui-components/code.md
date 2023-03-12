@@ -2,7 +2,7 @@
 layout: default
 title: Code
 parent: UI Components
-has_children: true
+grand_parent: Document Resources
 nav_order: 6
 ---
 

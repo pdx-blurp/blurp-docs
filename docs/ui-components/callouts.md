@@ -2,6 +2,7 @@
 layout: default
 title: Callouts
 parent: UI Components
+grand_parent: Document Resources
 nav_order: 8
 ---
 

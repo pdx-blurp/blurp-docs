@@ -2,6 +2,7 @@
 layout: default
 title: Responsive Modifiers
 parent: Utilities
+grand_parent: Document Resources
 ---
 
 # Responsive modifiers

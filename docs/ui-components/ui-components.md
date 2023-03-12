@@ -1,7 +1,8 @@
 ---
 layout: default
 title: UI Components
-nav_order: 3
+parent: Document Resources
+nav_order: 8
 has_children: true
 permalink: /docs/ui-components
 ---
