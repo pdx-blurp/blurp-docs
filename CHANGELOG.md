@@ -1,6 +1,8 @@
 ---
 title: CHANGELOG
 layout: default
+parent: Document Resources
+nav_order: 1
 ---
 
 # CHANGELOG
