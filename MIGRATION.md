@@ -252,11 +252,6 @@ For changes since v0.3.3, the log usually references the merged PR that made the
 - Aria-labels: improved `aria-label`s have been added to various site elements. PRs: [#950], ...
 - Other general improvements: gradual changes have improved tab focusability, contrast, and semantic elements. More work still to come. PRs: [#498], [#846]
 
-#### Configuration
-
-- Mermaid support: first-class support for [Mermaid](https://mermaid.js.org/) - a JavaScript-based diagram and charting tool supported by GitHub - has been added to the theme. **This feature is opt-in.** See the new doc subsections in [Configuration]({% link docs/configuration.md %}#mermaid-diagrams) and [Code]({% link docs/ui-components/code.md %}#mermaid-diagram-code-blocks) for more.
-- Multiple Google Analytics tags are now supported. PR: [#1029]
-
 #### Customization
 
 - all user-facing text is now customizable; previously, several elements (ex search placeholder) were hardwired into the theme. Now, users can blend custom includes and layouts to internationalize their sites.
