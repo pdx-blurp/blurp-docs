@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Blurp's Official Documentation
 {: .fs-9 }
 
-This document is an ongoing effort to consolidate documentation on development and to provide a central resource for new developers.
+This document is an ongoing effort to consolidate knowledge on development and to provide a central resource for new developers.
 {: .fs-6 .fw-300 }
 
 [Learn About Blurp](#about-the-project){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
