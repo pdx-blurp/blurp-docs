@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Markdown Guide
-nav_order: 99
+parent: Document Resources
+nav_order: 3
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>

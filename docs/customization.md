@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Customization
+parent: Document Resources
 nav_order: 6
 ---
 

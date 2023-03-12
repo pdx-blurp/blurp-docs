@@ -1,6 +1,8 @@
 ---
 title: Migration and Upgrading
 layout: default
+parent: Document Resources
+nav_order: 7
 ---
 
 # Migrating and Upgrading

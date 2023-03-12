@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
+parent: Document Resources
 nav_order: 5
 ---
 
