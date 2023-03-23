@@ -99,8 +99,9 @@ an up to date list of all the nodes in the graph.
 ## GraphEvents
 While GraphEvents is a method within blurpmap, it deserves its own section as it
 handles any action done on the map itself. All interactive actions involving nodes
-or edges ends up triggering some code within GraphEvents. [Sim51's](https://sim51.github.io/react-sigma/docs/example/events)
-events documentation goes into great detail about how graph events occur, so it's
+or edges ends up triggering some code within GraphEvents. 
+[Sim51's](https://sim51.github.io/react-sigma/docs/example/events) events 
+documentation goes into great detail about how graph events occur, so it's
 recommendeed to take a look at that. For more specific pieces of information you 
 may need to look at the sigma or react-sigma source code/tickets on GitHub, as 
 sigma is missing a lot of documentation on how it works. For this section, we'll
